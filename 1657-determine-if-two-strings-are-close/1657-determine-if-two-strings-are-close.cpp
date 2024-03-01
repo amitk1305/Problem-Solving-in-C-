@@ -1,22 +1,24 @@
 class Solution {
 public:
-    array<int, 26>&  alpha(const string& word, array<bool, 26>& S){
-        array<int, 26>  A;
-        A.fill(0);
-        for(char c: word){
-            int i=c-'a';
-            S[i]=1;
-            A[i]++;
+    bool closeStrings(string word1, string word2) {
+        vector<int> freq1(26), freq2(26);
+        for(auto chr : word1){
+            freq1[chr - 'a']++;
         }
-        return A;
-    }
-
-    bool closeStrings(string& word1, string& word2) {
-        array<bool, 26> S1, S2;
-        S1.fill(0), S2.fill(0);
-        array<int, 26> A1=alpha(word1, S1);
-        array<int, 26> A2=alpha(word2, S2);
-        if (S1!=S2) return 0;
-        return is_permutation(A1.begin(), A1.end(), A2.begin(), A2.end());
+        for(auto chr : word2){
+            freq2[chr - 'a']++;
+        }
+        for(int indx = 0; indx < 26; indx++){
+            if(freq1[indx] >0 && freq2[indx] == 0)return false;
+            else if(freq2[indx] > 0  && freq1[indx] == 0)return false;
+        }
+        sort(freq1.begin(), freq1.end());
+        sort(freq2.begin(), freq2.end());
+        for(int indx = 0; indx < 26; indx++){
+            if(freq1[indx] != freq2[indx]){
+                return false;
+            }
+        }
+        return true;
     }
 };
