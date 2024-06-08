@@ -10,6 +10,7 @@ public:
             if(s.find(sum)!=s.end()){
                 return true;
             }
+        
             s.insert(prev_sum);
             prev_sum = sum;
         }
