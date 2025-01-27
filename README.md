@@ -160,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
