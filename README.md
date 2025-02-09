@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1161-project-employees-i) |
+| [1317-monthly-transactions-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1317-monthly-transactions-i) |
 | [1415-students-and-examinations](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1773-percentage-of-users-attended-a-contest) |
