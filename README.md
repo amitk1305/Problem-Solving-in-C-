@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2057-count-salary-categories](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
 |  |
