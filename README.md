@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
