@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1025-minimum-cost-for-tickets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1477-product-of-the-last-k-numbers) |
@@ -371,5 +372,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
