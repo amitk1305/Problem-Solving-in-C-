@@ -1,22 +1,36 @@
 class Solution {
 public:
-    int putMarbles(vector<int>& weights, int k) {
-        int n = weights.size();
-        if (k == 1) return 0;  // If k == 1, only one partition is possible, so no difference.
-
-        vector<int> pairSums;
-        for (int i = 0; i < n - 1; i++) {
-            pairSums.push_back(weights[i] + weights[i + 1]);
-        }
+    long long putMarbles(vector<int>& v, int k) {
+            
+            int n = v.size();
+            
+            long long  mx = v[0] + v[n-1]; // Maximum Value 
+            long long  mn = v[0] + v[n-1]; // Minimum Value
+            
+            vector<long long > adjSum; // For storing adjacent sum
+            
+            for(int i = 0;i<n-1;i++)
+                    adjSum.push_back(v[i] + v[i+1]);  // Storing adjacent sum
+            
+            
+            sort(adjSum.begin(),adjSum.end(),greater<int>()); // Sorting in descending order
+            
+            
+            
+            for(int i = 0;i<k-1;i++)
+                    mx +=(long long) adjSum[i], // adding maximum to mx
+                    mn +=(long long) adjSum[n-i-2]; // adding minimum to mn
+            
+          
+            
+           
+            
+          
+            return (mx- mn); // difference is the answer
+            
+            
+            
+            
         
-        sort(pairSums.begin(), pairSums.end());
-
-        long long maxSum = 0, minSum = 0;
-        for (int i = 0; i < k - 1; i++) {
-            minSum += pairSums[i];                 // Smallest k-1 pair sums
-            maxSum += pairSums[n-2-i];             // Largest k-1 pair sums
-        }
-
-        return maxSum - minSum;
     }
 };
