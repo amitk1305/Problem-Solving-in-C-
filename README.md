@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0806-domino-and-tromino-tiling](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1025-minimum-cost-for-tickets) |
