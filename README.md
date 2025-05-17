@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2265-partition-array-according-to-given-pivot) |
