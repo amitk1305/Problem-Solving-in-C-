@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1396-count-servers-that-communicate) |
