@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
