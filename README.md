@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1364-tuple-with-same-product) |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -642,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2527-count-subarrays-with-fixed-bounds) |
