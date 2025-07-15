@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3455-minimum-length-of-string-after-operations) |
