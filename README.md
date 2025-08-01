@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
