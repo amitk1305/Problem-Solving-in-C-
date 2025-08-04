@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
