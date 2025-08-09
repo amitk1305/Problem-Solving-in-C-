@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
