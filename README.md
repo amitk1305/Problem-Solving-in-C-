@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0900-reordered-power-of-2) |
@@ -825,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
