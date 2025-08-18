@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0867-new-21-game) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
