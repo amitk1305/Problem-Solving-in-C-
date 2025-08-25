@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
