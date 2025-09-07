@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1500-count-largest-group) |
