@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -526,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2479-meeting-rooms-iii) |
@@ -714,11 +718,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3791-fruits-into-baskets-iii) |
