@@ -1,41 +1,60 @@
 class Solution {
 public:
+    int conv(string s) //convert a string to number
+    {
+        int ans=0;
+        for(int i=0;i<s.size();i++)
+        {
+            int num = s[i]-'0';
+            ans*=10;
+            ans+=num;
+        }
+        return ans;
+    }
+    vector<int> solve(string s)
+    {
+        s+=".";   //add dot at end since we are getting revision by finding str between 2 dots
+        int n = s.size();
+        vector<int> ans;
+        string str = "";
+        
+        
+        for(int i=0;i<n;i++){
+            if(s[i]=='.') //once we get a dot
+            {
+                int num = conv(str);  //convert str to num
+                ans.push_back(num);
+                str=""; //reset str
+            }
+            else{
+                str+=s[i];
+            }
+        }
+
+        return ans;
+
+    }
     int compareVersion(string version1, string version2) {
-        vector<int> v1, v2;
-        long long ans = 0;
-        for(int i=0;i<version1.size();i++){
-            if(version1[i]=='.'){
-                v1.push_back(ans);
-                ans = 0;
-            }
-            else{
-                ans = ans*10 + (version1[i]-'0');
-            }
+
+        vector<int> v1 = solve(version1);
+        vector<int> v2 = solve(version2);
+
+        int n = v1.size();
+        int m = v2.size();
+
+        if(n<m){
+            for(int i=1;i<=(m-n);i++) v1.push_back(0); //if v1 is smaller than v2, add 0 to v1 till same size
+        }else{
+            for(int i=1;i<=(n-m);i++) v2.push_back(0); //if v2 is smaller than v1, add 0s to v2 till same size
         }
-        v1.push_back(ans);
-        ans = 0;
-        for(int i=0;i<version2.size();i++){
-            if(version2[i]=='.'){
-                v2.push_back(ans);
-                ans = 0;
-            }
-            else{
-                ans = ans*10 + (version2[i]-'0');
-            }
-        }
-        v2.push_back(ans);
-        
-        if(v1.size()<v2.size()){
-            while(v1.size()!=v2.size()) v1.push_back(0);
-        }
-        else{
-            while(v1.size()!=v2.size()) v2.push_back(0);
-        }
-        
-        for(int i=0;i<v1.size();i++){
-            if(v1[i]<v2[i]) return -1;
+        int sz = v1.size();
+        for(int i=0;i<sz;i++)
+        {
             if(v1[i]>v2[i]) return 1;
+            else if(v1[i]<v2[i]) return -1;
         }
+
         return 0;
+        
     }
 };
