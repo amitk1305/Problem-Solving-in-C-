@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0038-count-and-say](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0952-word-subsets) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0342-power-of-four) |
