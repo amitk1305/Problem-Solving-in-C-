@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0498-diagonal-traverse) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0120-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0867-new-21-game) |
