@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -763,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1002,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amitk1305/Problem-Solving-in-C-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
