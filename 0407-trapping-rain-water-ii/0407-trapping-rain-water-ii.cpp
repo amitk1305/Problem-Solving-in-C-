@@ -1,61 +1,50 @@
 class Solution {
 public:
-	int m, n, MAX_HEIGHT, currWater = 0, ans = 0;
-	vector<vector<int>> map;
-	vector<pair<int, int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+    typedef pair<int , pair<int , int>> PP;
+    vector<vector<int>> dirs = {{0 , -1} , {0 , 1} , {-1 , 0} , {1 , 0}};
+    
+    int trapRainWater(vector<vector<int>>& heightMap) {
+        int m = heightMap.size();
+        int n = heightMap[0].size();
 
-	bool isInMap(int row, int col) {
-		return row >= 0 && col >= 0 && row < m && col < n;
-	}
+        priority_queue<PP , vector<PP> , greater<>> boundaryCells;
+        vector<vector<bool>> vis(m , vector<bool>(n , false));
 
-	void dfs(int row, int col) {
-		if(!isInMap(row, col))
-			return;
+        for (int row = 0; row < m; row++) {
+            for (int col : {0 , n - 1}) {
+                boundaryCells.push({heightMap[row][col] , {row , col}});
+                vis[row][col] = true;
+            }
+        }
 
-		if(map[row][col] != 0)
-			return;
+        for (int col = 0; col < n; col++) {
+            for (int row : {0 , m - 1}) {
+                boundaryCells.push({heightMap[row][col] , {row , col}});
+                vis[row][col] = true;
+            }
+        }
 
-		for(auto& [dirRow, dirCol] : dirs) {
-			int nextRow = row + dirRow;
-			int nextCol = col + dirCol;
-			if(!isInMap(nextRow, nextCol) || map[nextRow][nextCol] == -1) {
-				currWater--;
-				map[row][col] = -1;
-				break;
-			}
-		}
+        int totalWater = 0;
+        while(!boundaryCells.empty()) {
+            PP p = boundaryCells.top();
+            boundaryCells.pop();
 
-		if(map[row][col] == 0)
-			return;
+            int ht = p.first;
+            int i = p.second.first;
+            int j = p.second.second;
 
-		for(auto& [dirRow, dirCol] : dirs) {
-			int nextRow = row + dirRow;
-			int nextCol = col + dirCol;
-			dfs(nextRow, nextCol);
-		}
-	}
+            for (vector<int>& dir : dirs) {
+                int di = i + dir[0];
+                int dj = j + dir[1];
 
-	int trapRainWater(vector<vector<int>>& heightMap) {
-		m = heightMap.size();
-		n = heightMap[0].size();
-		MAX_HEIGHT = 2 * 1e4;
-		map = vector<vector<int>>(m, vector<int>(n, 1));
-		unordered_map<int, vector<pair<int, int>>> coordinates;
+                if (di >= 0 && di < m && dj >= 0 && dj < n && !vis[di][dj]) {
+                    totalWater += max(ht - heightMap[di][dj] , 0);
 
-		for(int row = 0; row < m; row++) {
-			for(int col = 0; col < n; col++) {
-				coordinates[heightMap[row][col]].push_back({row, col});
-			}
-		}
-
-		for(int height = 0; height <= MAX_HEIGHT; height++) {
-			if(coordinates.count(height)) for(auto& [row, col] : coordinates[height]) {
-				map[row][col] = 0;
-				currWater++;
-				dfs(row, col);
-			}
-			ans += currWater;
-		}
-		return ans;
-	}
+                    boundaryCells.push({max(ht , heightMap[di][dj]) , {di , dj}});
+                    vis[di][dj] = true;
+                }
+            }
+        }
+        return totalWater;
+    }
 };
